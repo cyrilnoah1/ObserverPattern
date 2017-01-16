@@ -1,0 +1,7 @@
+The Observer Pattern defines a one-to-many
+dependency between objects so that when one
+object changes state, all of its dependents are
+notified and updated automatically.
+
+In this example, we send coin data to all the registered/subscribed
+observers/subscribers by making the use of Observer Pattern.
